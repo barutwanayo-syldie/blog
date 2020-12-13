@@ -39,14 +39,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-## ссылки на научные и библиометрические ресурсы:
-* [ eLibrary](https://www.elibrary.ru/defaultx.asp)
-* [Google scholar](https://scholar.google.com/)
-* [ORCID](https://orcid.org/)
-* [Mendeley](https://www.mendeley.com/?interaction_required=true)
-* [ResearchGate](https://www.researchgate.net/)
-* [Academia.edu](https://www.academia.edu/)
-* [arXiv](https://arxiv.org/)
-* [github](https://github.com/)
----
-## My life in RUDN
