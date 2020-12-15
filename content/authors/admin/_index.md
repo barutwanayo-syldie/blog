@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-BARUTWANAYO Syldie - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+BARUTWANAYO Syldie - La vie à Moscou est tres difficile pour un étranger mais comme on le dit que peu à peu on peut on essaie de s'habituer.Dans un futur lointain on sera capable d' y vivre sans difficulté.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
