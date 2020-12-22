@@ -18,15 +18,15 @@ bio:
 
 # Interests to show in About widget
 interests:
--statistiques
--probabilité
--informatique
+* statistiques
+* probabilité
+* informatique
 
 
 # Education to show in About widget
 education:
   courses:
-  - course:student  
+  - course: student  
     institution: RUDN universtity
     year: 2020
   - course: Bachelar in mathematics
