@@ -14,19 +14,21 @@ organizations:
   url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- series statistiques
-- Computational Linguistics
+-statistiques
+-probabilité
+-informatique
+-infocommunication
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: master in applied mathematics
-    institution: RUDN University
+  - course:student  
+    institution: RUDN universtity
     year: 2020
   - course: Bachelar in mathematics
     institution: Universirty of Burundi
@@ -70,6 +72,6 @@ email: ""
 highlight_name: false
 ---
 
-BARUTWANAYO Syldie - La vie à Moscou est tres difficile pour un étranger mais comme on le dit que peu à peu on peut on essaie de s'habituer.Dans un futur lointain on sera capable d' y vivre sans difficulté.
+BARUTWANAYO Syldie -Burundian Student at RUDN university in Russia in applied mathematics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
