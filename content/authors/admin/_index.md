@@ -6,7 +6,7 @@ title: BARUTWANAYO  Syldie
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,7 +21,7 @@ interests:
 -statistiques
 -probabilité
 -informatique
--infocommunication
+
 
 # Education to show in About widget
 education:
@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-BARUTWANAYO Syldie -Burundian Student at RUDN university in Russia in applied mathematics.
+BARUTWANAYO Syldie - Student at RUDN university in Russia in applied mathematics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
