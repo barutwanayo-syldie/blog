@@ -18,9 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-* statistiques
-* probabilité
-* informatique
+- statistiques
+- probabilité
+- informatique
 
 
 # Education to show in About widget
