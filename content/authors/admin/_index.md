@@ -23,7 +23,6 @@ interests:
 -informatique
 -infocommunication
 
-
 # Education to show in About widget
 education:
   courses:
@@ -32,7 +31,7 @@ education:
     year: 2020
   - course: Bachelar in mathematics
     institution: Universirty of Burundi
-    year: 2017
+    year: 2018
   - course: Science section
     institution: NGAGARA Lycee(ENE)
     year: 2011
