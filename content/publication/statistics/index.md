@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Statistics"
+title: "educations"
 authors: []
 date: 2020-12-13T23:06:05+03:00
 doi: ""
@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Je veux m'engager dans le domaine de l'education,car ce domaine noble qui fait le monde.Sans education efficace le monde futur serait sans sens.Qui veut donner sa contribution dans le developpement de ce monde doit obligatoirement s'engager dans le domaine educatif pour produire les futurs constructeurs de ce monde.
