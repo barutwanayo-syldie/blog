@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My contry"
+title: "Life"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-12-13T22:42:34+03:00
-lastmod: 2020-12-13T22:42:34+03:00
+date: 2020-12-13T22:25:44+03:00
+lastmod: 2020-12-13T22:25:44+03:00
 featured: false
 draft: false
 
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-My contry is in African continent.I like a lot my contry because it has all of we need in our every day life.I have to make all efforts in order to protect it and develop it. 
+life not easy that is why we have to take care our life and work so hard in order to keep our life.
