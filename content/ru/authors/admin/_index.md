@@ -1,16 +1,16 @@
 ---
 # Display name
-title: BARUTWANAYO  Syldie 
+title: БАРУТВАНАЙО Сильди 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: student
+role: Студент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: RUDN university
+- name: РУДН университет
   url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,22 @@ bio:
 
 # Interests to show in About widget
 interests:
-- statistiques
-- probabilité
-- informatique
+- Статистика
+- Вероятность
+- информатика
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: student  
-    institution: RUDN universtity
+  - course: Студент 
+    institution: РУДН университет
     year: 2020
-  - course: Bachelar in mathematics
-    institution: Universirty of Burundi
+  - course: бакалавр математики
+    institution: Бурундийский университет
     year: 2018
-  - course: Science section
-    institution: NGAGARA Lycee(ENE)
+  - course: Секция науки
+    institution: Лицей НГАГАРА(ЕНЕ)
     year: 2011
 
 # Social/Academic Networking
@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-BARUTWANAYO Syldie - Student at RUDN university in Russia in applied mathematics.
+БАРУТВАНАЙО Сильди - Студент университета РУДН в России по специальности Прикладная математика.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
