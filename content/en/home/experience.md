@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: enseignant
-    company: lycee de la COMIBU Buyenzi
+  - title: teaching
+    company: COMIBU Buyenzi high school
     company_url: ''
     location: Burundi
     date_start: '2018-02-08'
@@ -35,11 +35,11 @@ experience:
         
     
         
-  - title: Enseignant
+  - title: teaching
     company: 
-    company_url: 'lycee ETEELAC'
+    company_url: ' ETEELAC high school'
     location: 
     date_start: '2018-09-20'
     date_end: '2019-07-01'
-    description: Mathematiques et sciences et technologie
+    description: Mathematics and Science and Technology
 ---
