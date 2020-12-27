@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ссылки на научые и библиометрические ресурсы "
+title: "Links to scholarly and bibliometric resources "
 subtitle: ""
 summary: ""
 authors: []
