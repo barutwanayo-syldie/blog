@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 
-"Agriculture in Russia"
+title: "Agriculture in Russia"
 summary: ""
 authors: []
 tags: []
