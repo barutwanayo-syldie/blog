@@ -1,5 +1,5 @@
 ---
-title:Что посмотреть и что делать в Бурунди
+title: Что посмотреть и что делать в Бурунди
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
